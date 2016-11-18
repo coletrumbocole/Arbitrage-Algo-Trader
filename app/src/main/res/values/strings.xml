@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Arbitrage</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="add_exchange_button">Add Exchange</string>
+    <string name="cash_value_text">Cash</string>
+    <string name="last_value_text">Other Currencies (according to buy price)</string>
+    <string name="btc_balance_text">Bitcoin</string>
+    <string name="eth_balance_text">Ether</string>
+    <string name="needs_an_exchange_toast">Add an exchange first</string>
+    <string name="has_money_out_toast">All digital assets will be sold at the exchanges they were bought at</string>
+    <string name="ok_toast">OK</string>
+    <string name="click_total_toast">Add exchanges to see how this total is split between your exchanges</string>
+    <string name="bitstamp_text">Bitstamp</string>
+    <string name="gdax_text">GDAX</string>
+    <string name="bitfinex_text">Bitfinex</string>
+</resources>
