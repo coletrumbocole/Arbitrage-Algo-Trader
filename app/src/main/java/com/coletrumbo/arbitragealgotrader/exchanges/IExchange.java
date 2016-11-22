@@ -20,6 +20,8 @@ public interface IExchange {
     public String receive(String currencyName);
     public void updateData();
 
+    void getRequestData();
+
     public interface ICurrency {
         public String getName();
         public float getAskPrice();

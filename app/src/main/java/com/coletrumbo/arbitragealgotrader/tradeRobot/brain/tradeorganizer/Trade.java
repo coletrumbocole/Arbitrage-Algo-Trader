@@ -1,4 +1,4 @@
-package com.coletrumbo.arbitragealgotrader.tradeRobot;
+package com.coletrumbo.arbitragealgotrader.tradeRobot.brain.tradeorganizer;
 
 import com.coletrumbo.arbitragealgotrader.exchanges.IExchange;
 
